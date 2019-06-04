@@ -1,0 +1,1 @@
+{"jobID":"08d942e2-a4e6-05c4-fffc-dee9dea44307","spec":{"type":"policy","cause":{"Message":"","User":"acau \u003candrea.cau@green-share.it\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
